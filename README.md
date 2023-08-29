@@ -32,7 +32,7 @@ git clone https://github.com/TiagoPBarreto/buscador_gifs_flutter.git
 
 cd buscador_gifs_flutter
 
-#execultar o projeto
+# execultar o projeto
 
 no prompt de comando na pasta do projeto execultar o comando code .
 ou arrastar a pasta para o Android Studio caso queira utilizalo.
