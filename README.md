@@ -4,7 +4,7 @@
 
 ## Sobre o Projeto
 
-Aplicativo com o intuito de buscar Gifs da API gifs.io, desenvolvido em Flutter com a linguagem Dart. 
+Aplicativo com o intuito de buscar Gifs da API giphy.com, desenvolvido em Flutter com a linguagem Dart. 
 O aplicativo consiste em pesquisar Gifs e poder enviar pelo whatsApp, email, messenger, gmail, a partir de um clique em cada Gif.
 
 ## Layout mobile1
@@ -20,7 +20,7 @@ O aplicativo consiste em pesquisar Gifs e poder enviar pelo whatsApp, email, mes
 
 - Dart
 - Flutter
-- Api Gifs.io
+- Api giphy.com
 
 # Como executar o projeto
 
